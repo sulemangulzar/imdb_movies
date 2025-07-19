@@ -1,0 +1,175 @@
+1. The Shawshank Redemption
+Release Year: 1994
+Duration: 2h 22m
+Age Rating: R
+Movie Rating: 9.3
+People Rated: (3.1M)
+----------------------------------------
+2. The Godfather
+Release Year: 1972
+Duration: 2h 55m
+Age Rating: R
+Movie Rating: 9.2
+People Rated: (2.1M)
+----------------------------------------
+3. The Dark Knight
+Release Year: 2008
+Duration: 2h 32m
+Age Rating: PG-13
+Movie Rating: 9.0
+People Rated: (3M)
+----------------------------------------
+4. The Godfather Part II
+Release Year: 1974
+Duration: 3h 22m
+Age Rating: R
+Movie Rating: 9.0
+People Rated: (1.4M)
+----------------------------------------
+5. 12 Angry Men
+Release Year: 1957
+Duration: 1h 36m
+Age Rating: Approved
+Movie Rating: 9.0
+People Rated: (937K)
+----------------------------------------
+6. The Lord of the Rings: The Return of the King
+Release Year: 2003
+Duration: 3h 21m
+Age Rating: PG-13
+Movie Rating: 9.0
+People Rated: (2.1M)
+----------------------------------------
+7. Schindler's List
+Release Year: 1993
+Duration: 3h 15m
+Age Rating: R
+Movie Rating: 9.0
+People Rated: (1.5M)
+----------------------------------------
+8. Pulp Fiction
+Release Year: 1994
+Duration: 2h 34m
+Age Rating: R
+Movie Rating: 8.8
+People Rated: (2.4M)
+----------------------------------------
+9. The Lord of the Rings: The Fellowship of the Ring
+Release Year: 2001
+Duration: 2h 58m
+Age Rating: PG-13
+Movie Rating: 8.9
+People Rated: (2.1M)
+----------------------------------------
+10. Il buono, il brutto, il cattivo
+Release Year: 1966
+Duration: 2h 41m
+Age Rating: R
+Movie Rating: 8.8
+People Rated: (862K)
+----------------------------------------
+11. Forrest Gump
+Release Year: 1994
+Duration: 2h 22m
+Age Rating: PG-13
+Movie Rating: 8.8
+People Rated: (2.4M)
+----------------------------------------
+12. The Lord of the Rings: The Two Towers
+Release Year: 2002
+Duration: 2h 59m
+Age Rating: PG-13
+Movie Rating: 8.8
+People Rated: (1.9M)
+----------------------------------------
+13. Fight Club
+Release Year: 1999
+Duration: 2h 19m
+Age Rating: R
+Movie Rating: 8.8
+People Rated: (2.5M)
+----------------------------------------
+14. Inception
+Release Year: 2010
+Duration: 2h 28m
+Age Rating: PG-13
+Movie Rating: 8.8
+People Rated: (2.7M)
+----------------------------------------
+15. Star Wars: Episode V - The Empire Strikes Back
+Release Year: 1980
+Duration: 2h 4m
+Age Rating: PG
+Movie Rating: 8.7
+People Rated: (1.5M)
+----------------------------------------
+16. The Matrix
+Release Year: 1999
+Duration: 2h 16m
+Age Rating: R
+Movie Rating: 8.7
+People Rated: (2.2M)
+----------------------------------------
+17. GoodFellas
+Release Year: 1990
+Duration: 2h 25m
+Age Rating: R
+Movie Rating: 8.7
+People Rated: (1.3M)
+----------------------------------------
+18. Interstellar
+Release Year: 2014
+Duration: 2h 49m
+Age Rating: PG-13
+Movie Rating: 8.7
+People Rated: (2.4M)
+----------------------------------------
+19. One Flew Over the Cuckoo's Nest
+Release Year: 1975
+Duration: 2h 13m
+Age Rating: R
+Movie Rating: 8.7
+People Rated: (1.1M)
+----------------------------------------
+20. Se7en
+Release Year: 1995
+Duration: 2h 7m
+Age Rating: R
+Movie Rating: 8.6
+People Rated: (1.9M)
+----------------------------------------
+21. It's a Wonderful Life
+Release Year: 1946
+Duration: 2h 10m
+Age Rating: PG
+Movie Rating: 8.6
+People Rated: (531K)
+----------------------------------------
+22. The Silence of the Lambs
+Release Year: 1991
+Duration: 1h 58m
+Age Rating: R
+Movie Rating: 8.6
+People Rated: (1.6M)
+----------------------------------------
+23. Shichinin no samurai
+Release Year: 1954
+Duration: 3h 27m
+Age Rating: Not Rated
+Movie Rating: 8.6
+People Rated: (388K)
+----------------------------------------
+24. Saving Private Ryan
+Release Year: 1998
+Duration: 2h 49m
+Age Rating: R
+Movie Rating: 8.6
+People Rated: (1.6M)
+----------------------------------------
+25. The Green Mile
+Release Year: 1999
+Duration: 3h 9m
+Age Rating: R
+Movie Rating: 8.6
+People Rated: (1.5M)
+----------------------------------------
