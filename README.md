@@ -1,4 +1,4 @@
-# 🎬 IMDb Top 250 Movies Scraper
+# 🎬 IMDb Top 25 Movies Scraper
 
 This Python script scrapes the **IMDb Top 250 Movies** page and extracts key details about each movie, such as:
 
